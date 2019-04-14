@@ -5,3 +5,8 @@ translation of [Emuera documents](https://osdn.net/projects/emuera/wiki/FrontPag
 
 Every translations to Korean are welcome.  
 As using markdown, so you should convert syntax [markdown syntax](https://gist.github.com/ihoneymon/652be052a0727ad59601, "Korean Reference") 
+
+### TODO
+- [x] Paste from original documents
+- [ ] Convert syntaxes to markdown
+- [ ] Translate to Korean
