@@ -4,4 +4,4 @@ translation of [Emuera documents](https://osdn.net/projects/emuera/wiki/FrontPag
 
 **View [Wiki](https://github.com/mosochu/EmueraKWiki/wiki)**
 
-Every translation to Korean is welcome.
+Every translations to Korean are welcome.
