@@ -4,7 +4,7 @@ translation of [Emuera documents](https://osdn.net/projects/emuera/wiki/FrontPag
 **View [Wiki](https://github.com/mosochu/EmueraKWiki/wiki)**
 
 Every translations to Korean are welcome.  
-As using github wiki, so you should convert osdn syntax to [markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601, "Korean Reference") [syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, "English Tutorial")
+As using github wiki, so you should convert osdn syntax to [markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601, "Korean Tutorial") [syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, "English Tutorial")
 
 ## TODO
 - [x] Paste from original documents (23/23)
@@ -12,7 +12,7 @@ As using github wiki, so you should convert osdn syntax to [markdown](https://gi
 - [ ] Translate to Korean (5+1/23)
 
 
-## Pages which are only pasted from original documents
+## Pages which are just pasted from original documents (1)
 * [Emudic](../../wiki/Emudic)
 * [debug](../../wiki/debug)
 * [replace](../../wiki/replace)
@@ -32,11 +32,11 @@ As using github wiki, so you should convert osdn syntax to [markdown](https://gi
   * [exhtml](../../wiki/exhtml)
   * [resources](../../wiki/resources)
 
-## Pages need proof-reading 
+## Pages need proof-reading (2)
 * [config](../../wiki/config)
 
 
-## Translated pages
+## Translated pages (3)
 * [FrontPage](../../wiki/home)
 * [howto](../../wiki/howto)
 * [shortcut](../../wiki/shortcut)
