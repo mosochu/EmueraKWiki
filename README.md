@@ -12,8 +12,7 @@ As using github wiki, so you should convert osdn syntax to [markdown](https://gi
 - [ ] Translate to Korean
 
 
-## Pages which are just pasted from original documents (1)
-* [Emudic](../../wiki/Emudic)
+## Pages which are just pasted from original documents
 * [debug](../../wiki/debug)
 * [flow](../../wiki/flow)
 * [diff](../../wiki/diff)
@@ -27,13 +26,14 @@ As using github wiki, so you should convert osdn syntax to [markdown](https://gi
   * [ERH](../../wiki/ERH)
   * [exhtml](../../wiki/exhtml)
 
-## Pages need proof-reading (2)
+## Pages need proof-reading
 * [config](../../wiki/config)
 
 
-## Translated pages (3)
+## Translated pages
 * [FrontPage](../../wiki/home)
 * [howto](../../wiki/howto)
+* [Emudic](../../wiki/Emudic)
 * [shortcut](../../wiki/shortcut)
 * [replace](../../wiki/replace)
 * [exconfig](../../wiki/exconfig)
