@@ -26,7 +26,6 @@ As using github wiki, so you should convert osdn syntax to [markdown](https://gi
   * [UserMeth](../../wiki/UserMeth)
   * [ERH](../../wiki/ERH)
   * [exhtml](../../wiki/exhtml)
-  * [resources](../../wiki/resources)
 
 ## Pages need proof-reading (2)
 * [config](../../wiki/config)
@@ -44,3 +43,4 @@ As using github wiki, so you should convert osdn syntax to [markdown](https://gi
 * extended syntax
   * [exop](../../wiki/exop)
   * [UserVars](../../wiki/UserVars)
+  * [resources](../../wiki/resources)
