@@ -13,9 +13,6 @@ As using github wiki, so you should convert osdn syntax to [markdown](https://gi
 
 
 ## Pages which are just pasted from original documents
-* [debug](../../wiki/debug)
-* [flow](../../wiki/flow)
-* [diff](../../wiki/diff)
 * extended syntax
   * [exetc](../../wiki/exetc)
   * [exvar](../../wiki/exvar)
@@ -34,12 +31,15 @@ As using github wiki, so you should convert osdn syntax to [markdown](https://gi
 * [FrontPage](../../wiki/home)
 * [howto](../../wiki/howto)
 * [Emudic](../../wiki/Emudic)
+* [debug](../../wiki/debug)
 * [shortcut](../../wiki/shortcut)
 * [replace](../../wiki/replace)
 * [exconfig](../../wiki/exconfig)
 * [Thread](../../wiki/Thread)
 * [debugcom](../../wiki/debugcom)
 * [exconfig](../../wiki/exconfig)
+* [flow](../../wiki/flow)
+* [diff](../../wiki/diff)
 * extended syntax
   * [exop](../../wiki/exop)
   * [UserVars](../../wiki/UserVars)
